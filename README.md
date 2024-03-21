@@ -2,7 +2,7 @@
 
 
 
-![EkranKayd2024-03-1216 45 01-ezgif com-video-to-gif-converter-2](https://github.com/emelzorlu/Tesla-App/assets/147662992/70f88f9c-7d82-4d43-b0c6-7b4c696bfca9)This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+)This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
