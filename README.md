@@ -83,5 +83,6 @@ To learn more about React Native, take a look at the following resources:
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 # Tesla-App
 
+![EkranKayd2024-03-2115 24 01-ezgif com-video-to-gif-converter](https://github.com/emelzorlu/Tesla-App/assets/147662992/c6fac455-2f43-4588-a6cc-065352211a59)
 
 
